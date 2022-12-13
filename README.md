@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aleksandra and I'm studying Computer Science at the University of Warwick.
 - 👀 I’m interested in web development, app development, algorithms and AI.
-- 🌱 I’m currently learning Python for my AI coursework.
 - 💞️ I’m looking to collaborate on open source projects that use React.js and Node.js.
+- 🌱 Most repositories are kept private - access provided on request.
 - 📫 How to reach me: okoczar@gmail.com
 
 <!---
